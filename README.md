@@ -1,1 +1,1 @@
-# Decision-Making-and-Recursive-Algorithms
+# checkpoint-algorithms
